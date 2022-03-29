@@ -39,7 +39,7 @@ A brief description of what this project does and who it's for
     
     v. Add the configuration
     
-    ![](streams/runconfig.PNG)
+    ![](streams/runconfig.png)
 
     v. Run CabezaMainApplication main method
 
