@@ -23,7 +23,7 @@ A brief description of what this project does and who it's for
 
     *git clone git@github.com:ayu-webmaster/cabeza.git*
     
-4. **Setup in Local**
+4. **Project setup**
 
     Download Java 8
     
@@ -36,10 +36,16 @@ A brief description of what this project does and who it's for
     iii. Add Lombok plugin to IntelliJ
 
     iv. Build the project
+
+5. **Configurations**    
     
-    v. Add the configuration
+    i. Add the configuration
     
     ![](streams/runconfig.png)
+    
+    ii.Configure the ip address.
+
+6. **Run app**    
 
     v. Run CabezaMainApplication main method
 
