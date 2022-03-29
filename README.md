@@ -1,6 +1,6 @@
 
 # Cabeza
-
+![](streams/error.PNG)
 A brief description of what this project does and who it's for
 
 ## Steps to setup the project
@@ -44,6 +44,6 @@ A brief description of what this project does and who it's for
         
         
         
-        ![](streams/error.PNG)
+   
         
         
