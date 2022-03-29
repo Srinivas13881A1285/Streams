@@ -39,11 +39,11 @@ A brief description of what this project does and who it's for
 
 5. **Configurations**    
     
-    i. Add the configuration
+    i. Add below configurations to project
     
     ![](streams/runconfig.png)
     
-    ii.Configure the ip address.
+    ii. Configure the ip address.
 
 6. **Run app**    
 
@@ -54,12 +54,19 @@ A brief description of what this project does and who it's for
         http://localhost:11901/swagger#/
 
 
- ## Trouble Shooting       
+ ## Trouble Shooting  
 
-If you see JDK issues like below. Download JDK 1.8.0_321 (as mentioned in Step 4 ) and configure it to the project
+
+If you see JDK issues like mentioned in the screenshots,
+
 
 ![](streams/error.PNG)
 
 ![](streams/error2.PNG)
 
-    
+
+ Download JDK 1.8.0_321 from 
+
+    https://www.oracle.com/java/technologies/downloads/#java8-mac
+
+and configure it to the project
