@@ -41,3 +41,9 @@ A brief description of what this project does and who it's for
     v. Go to swagger UI
 
         http://localhost:11901/swagger#/
+        
+        
+        
+        ![](streams/error.png)
+        
+        
