@@ -1,6 +1,5 @@
-
 # Cabeza
-![](streams/error.PNG)
+
 A brief description of what this project does and who it's for
 
 ## Steps to setup the project
@@ -34,16 +33,23 @@ A brief description of what this project does and who it's for
 
     ii. Configure Java 8 to the project
 
-    iii. Build the project
+    iii. Add Lombok plugin to IntelliJ
 
-    iv. Run CabezaMainApplication main method
+    iv. Build the project
 
-    v. Go to swagger UI
+    v. Run CabezaMainApplication main method
+
+    vi. Go to swagger UI
 
         http://localhost:11901/swagger#/
-        
-        
-        
-   
-        
-        
+
+
+ ## Trouble Shooting       
+
+If you see JDK issues like below. Download JDK 1.8.0_321 (as mentioned in Step 4 ) and configure it to the project
+
+![](streams/error.PNG)
+
+![](streams/error2.PNG)
+
+    
