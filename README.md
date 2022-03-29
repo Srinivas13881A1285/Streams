@@ -36,6 +36,10 @@ A brief description of what this project does and who it's for
     iii. Add Lombok plugin to IntelliJ
 
     iv. Build the project
+    
+    v. Add the configuration
+    
+    ![](streams/runconfig.PNG)
 
     v. Run CabezaMainApplication main method
 
