@@ -44,6 +44,6 @@ A brief description of what this project does and who it's for
         
         
         
-        ![](streams/error.png)
+        ![](streams/error.PNG)
         
         
