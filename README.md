@@ -41,7 +41,7 @@ A brief description of what this project does and who it's for
     
     i. Add below configurations to project
 
-    ![](streams/runconfig.png)
+    ![](https://s3.ap-south-1.amazonaws.com/test.ayu.health/others/runconfig.png)
     
     ii. Whitelist your ip address to access MYSQL database
 
