@@ -41,8 +41,12 @@ A brief description of what this project does and who it's for
     
     i. Add below configurations to project
     
+    <div style="width:60px ; height:60px">
+
     ![](streams/runconfig.png)
     
+    <div>
+
     ii. Configure the ip address.
 
 6. **Run app**    
