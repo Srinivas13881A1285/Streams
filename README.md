@@ -41,7 +41,7 @@ A brief description of what this project does and who it's for
     
     i. Add below configurations to project
     
-    <div style="width:60px ; height:60px">
+    <div style="width:20px ; height:20px">
 
     ![](streams/runconfig.png)
     
