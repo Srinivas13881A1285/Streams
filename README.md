@@ -40,14 +40,10 @@ A brief description of what this project does and who it's for
 5. **Configurations**    
     
     i. Add below configurations to project
-    
-    <div style="width:20px ; height:20px">
 
     ![](streams/runconfig.png)
     
-    <div>
-
-    ii. Configure the ip address.
+    ii. Whitelist your ip address to access MYSQL database
 
 6. **Run app**    
 
